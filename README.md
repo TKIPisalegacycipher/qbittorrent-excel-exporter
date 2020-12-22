@@ -4,7 +4,7 @@ Exports your qBittorrent torrents list to an Excel file.
 
 ## Requirements
 
-Before running this, pip install requirements.txt
+Before running this, `pip install requirements.txt`
 
 ## Customization
 
